@@ -1,3 +1,3 @@
 # tribute-page
 
-View on [CodePen](https://codepen.io/lfidelino/pen/oNzKGEj).
+View on [GitHub](https://lfidelino.github.io/tribute-page/) or [CodePen](https://codepen.io/lfidelino/pen/oNzKGEj).
